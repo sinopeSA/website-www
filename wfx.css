@@ -1,0 +1,5 @@
+/* cyrillic-ext */
+span[class*="WF"]>span {
+  font: 28pt Roboto, sans-serif important;
+}
+/* cyrillic */
